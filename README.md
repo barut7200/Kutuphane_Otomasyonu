@@ -16,3 +16,10 @@ Kitap Emanet Satın Alma ve İade işlemlerinde öğrencinin yaptğı işlemleri
 ![Adsız](https://user-images.githubusercontent.com/116725248/234410472-c3208762-a005-450b-bb78-15a1d15f85e1.png)
 
 ![image](https://user-images.githubusercontent.com/116725248/234410704-e9d60dc8-38e8-4363-814f-03b17a160481.png)
+
+![Adsız](https://user-images.githubusercontent.com/116725248/234410849-89d444c2-4dab-4b3c-b246-25f6be08ab49.png)
+
+
+ve Grafik Kısmı
+![Adsız](https://user-images.githubusercontent.com/116725248/234411040-a387eb58-b0ec-4939-aeff-42466a11c8fa.png)
+
