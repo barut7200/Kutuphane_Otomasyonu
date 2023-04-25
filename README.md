@@ -12,3 +12,5 @@ Kitap İşlemlerinde aynı şekilde yeni kitap ekleyebilir, silebilir, güncelle
 ![Adsız](https://user-images.githubusercontent.com/116725248/234409393-0c4623ad-e967-4bd7-a6c6-63ec54562494.png)
 
  
+Kitap Emanet Satın Alma ve İade işlemlerinde öğrencinin yaptğı işlemlerin kayıtları tutulur.
+![Adsız](https://user-images.githubusercontent.com/116725248/234410472-c3208762-a005-450b-bb78-15a1d15f85e1.png)
